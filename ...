@@ -505,7 +505,7 @@ basic.show_leds("""
 # # . # #
 # . # . #
 # . . . #
-# . . . #
+# . . . #dsfsdf
 # . . . #
 """)
 basic.show_string("https://3dexport.com/free-3dmodel-enigma-machine-by-prof-ikta-421703.htm")
